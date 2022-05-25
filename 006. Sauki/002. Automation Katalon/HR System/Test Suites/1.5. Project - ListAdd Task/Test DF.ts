@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Test DF</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>eaac6941-7d9d-4617-bd05-ee453d805907</testSuiteGuid>
+   <testCaseLink>
+      <guid>23f1c88d-0da7-4d7b-bdf6-54af2388fda0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/1.5. Project - List or Add Task/S150003DF</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>e0618ccd-9f17-45c9-a81f-71daa280197c</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/1.5. Project - List or Add Task/Test DF</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>e0618ccd-9f17-45c9-a81f-71daa280197c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>project_list</value>
+         <variableId>f5c5eed8-e751-462f-b9cc-45d1dcc1b967</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>e0618ccd-9f17-45c9-a81f-71daa280197c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>collaborators</value>
+         <variableId>a8b8631d-f95b-4c61-86e6-0c34cdf966c4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>e0618ccd-9f17-45c9-a81f-71daa280197c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>task_title</value>
+         <variableId>fee71bc4-7aad-4733-973f-4ca43d7a05c2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>e0618ccd-9f17-45c9-a81f-71daa280197c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>task_startdate</value>
+         <variableId>b9a160e6-f3e3-4c63-b701-3175975baa9b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>e0618ccd-9f17-45c9-a81f-71daa280197c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>task_enddate</value>
+         <variableId>6a605b46-f7dc-4f8d-88ae-fa9cbfa61255</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>e0618ccd-9f17-45c9-a81f-71daa280197c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>details</value>
+         <variableId>90abd916-5885-40ae-a841-be9392d3c247</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Mengarahkan kursor ke icon gambar employee untuk memunculkan icon tooltip</description>
+   <name>S150030</name>
+   <tag>S150030</tag>
+   <comment></comment>
+   <testCaseGuid>d111463a-9c04-45a3-bbc2-c91c3238c3e4</testCaseGuid>
+</TestCaseEntity>

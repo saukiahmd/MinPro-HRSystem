@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>S120002_TS</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>30de9bc8-d325-4bfd-b2d6-d49894cfcbea</testSuiteGuid>
+   <testCaseLink>
+      <guid>d0ca81b8-946d-4933-9695-3feb2a3bd4bd</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/1.2. Employees - Edit Employees - Bank Account/S120002_DF</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>fb5d23e6-afa8-48f9-986f-1961304b027d</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/1.2. Employees - Edit Employees - Bank Account/S120002_DF</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>fb5d23e6-afa8-48f9-986f-1961304b027d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>holder_name</value>
+         <variableId>cf7a5cb6-00df-442a-a350-0337c67cb5eb</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>fb5d23e6-afa8-48f9-986f-1961304b027d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>name_bank</value>
+         <variableId>4503b836-8ce9-4ecc-9be6-1ae1baa078a0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>fb5d23e6-afa8-48f9-986f-1961304b027d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>name_branch</value>
+         <variableId>14909944-6124-4456-8f71-0168e000a83f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>fb5d23e6-afa8-48f9-986f-1961304b027d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>account_number</value>
+         <variableId>b02972ab-c701-414b-b4be-68abf6e88f0e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>fb5d23e6-afa8-48f9-986f-1961304b027d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>account_type</value>
+         <variableId>084bc3e9-9fd6-4633-a0f2-c2cc73e1d1c2</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

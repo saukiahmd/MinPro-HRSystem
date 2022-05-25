@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Mencopy data task dengan klik tombol &quot;copy&quot;</description>
+   <name>S150013</name>
+   <tag>S150013</tag>
+   <comment></comment>
+   <testCaseGuid>8a5a209e-30a7-495e-b903-4bd192135378</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Merubah data bank account dimas pratama dimana semua kolom diisi</description>
+   <name>S120002_DF</name>
+   <tag>S120002</tag>
+   <comment></comment>
+   <testCaseGuid>e2f14835-fe2d-4f95-a518-e586ffbe5d6e</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cf7a5cb6-00df-442a-a350-0337c67cb5eb</id>
+      <masked>false</masked>
+      <name>holder_name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4503b836-8ce9-4ecc-9be6-1ae1baa078a0</id>
+      <masked>false</masked>
+      <name>name_bank</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>14909944-6124-4456-8f71-0168e000a83f</id>
+      <masked>false</masked>
+      <name>name_branch</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b02972ab-c701-414b-b4be-68abf6e88f0e</id>
+      <masked>false</masked>
+      <name>account_number</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>084bc3e9-9fd6-4633-a0f2-c2cc73e1d1c2</id>
+      <masked>false</masked>
+      <name>account_type</name>
+   </variable>
+</TestCaseEntity>

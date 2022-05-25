@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan sorting descending untuk kolom task title</description>
+   <name>S150023</name>
+   <tag>S150023</tag>
+   <comment></comment>
+   <testCaseGuid>0c42a82a-d1b8-4510-ab07-d7b9f5de07e0</testCaseGuid>
+</TestCaseEntity>

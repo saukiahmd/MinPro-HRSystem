@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menambah data task dimana semua data di isi</description>
+   <name>S150003</name>
+   <tag>S150003</tag>
+   <comment></comment>
+   <testCaseGuid>32d5398a-dffc-48c6-a30d-e3d70eb69033</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6f72b294-9346-437a-91bd-874313e98f1b</id>
+      <masked>false</masked>
+      <name>project_list</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c1e11846-29bc-4476-83c3-6f8068ba11dd</id>
+      <masked>false</masked>
+      <name>collaborator</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d26ba804-6fed-4443-9a63-f3563db7292d</id>
+      <masked>false</masked>
+      <name>task_title</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c39ca1de-fe74-4601-93a5-40d06252effe</id>
+      <masked>false</masked>
+      <name>task_startdate</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>432391bb-391f-4c3e-99b3-f54a2b4c265a</id>
+      <masked>false</masked>
+      <name>task_enddate</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>67418680-bce5-47b0-a429-344fd74c458f</id>
+      <masked>false</masked>
+      <name>details</name>
+   </variable>
+</TestCaseEntity>

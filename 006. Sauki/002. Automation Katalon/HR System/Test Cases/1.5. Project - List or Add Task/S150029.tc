@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan sorting descending untuk kolom assigned employee</description>
+   <name>S150029</name>
+   <tag>S150029</tag>
+   <comment></comment>
+   <testCaseGuid>d361c7da-bc7d-43ad-8a4c-0a3389a6feaf</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pengecekan tombol previous dibagian pagination</description>
+   <name>S150032</name>
+   <tag>S150032</tag>
+   <comment></comment>
+   <testCaseGuid>b1398ade-3659-4e0b-87c3-3086cadc015e</testCaseGuid>
+</TestCaseEntity>

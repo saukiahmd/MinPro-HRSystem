@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Merubah data social media dimas pratama dimana hanya facebook dan twitter yang diisi</description>
+   <name>S130018</name>
+   <tag>S130018</tag>
+   <comment></comment>
+   <testCaseGuid>69ff4fef-bb50-4ec0-b72b-3f08c5fd31b6</testCaseGuid>
+</TestCaseEntity>

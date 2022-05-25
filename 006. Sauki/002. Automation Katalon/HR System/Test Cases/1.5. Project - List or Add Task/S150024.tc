@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan sorting ascending untuk kolom start date</description>
+   <name>S150024</name>
+   <tag>S150024</tag>
+   <comment></comment>
+   <testCaseGuid>a47620d6-0d8b-429a-bff7-3d9c12e32452</testCaseGuid>
+</TestCaseEntity>

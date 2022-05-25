@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description>Merubah data social media dimas pratama</description>
+   <name>S130002_DF</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>a2d0e7f7-47d5-496b-904e-68850d4f99f9</dataFileGUID>
+   <dataSourceUrl>C:\Users\sauki\xa-bootcamp-batch-283-qa-minpro\006. Sauki\003. Data Files\1.3. Employees - Edit Employees - Social Media\S130002_DF.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Sheet1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

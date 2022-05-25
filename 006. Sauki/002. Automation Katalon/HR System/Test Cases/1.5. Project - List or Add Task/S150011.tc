@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menambah data task dimana semua data diisi dan untuk kolom task title disi kurang dari 8 karakter</description>
+   <name>S150011</name>
+   <tag>S150011</tag>
+   <comment></comment>
+   <testCaseGuid>5bd77773-6983-486a-98e3-cb73bae2d72e</testCaseGuid>
+</TestCaseEntity>

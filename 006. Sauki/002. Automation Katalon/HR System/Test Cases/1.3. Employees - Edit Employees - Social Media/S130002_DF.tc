@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Merubah data social media dimas pratama</description>
+   <name>S130002_DF</name>
+   <tag>S130002_DF</tag>
+   <comment></comment>
+   <testCaseGuid>9dbb0f59-414f-42f9-a33f-15ed8e92226b</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>765f3207-620a-466a-8697-1ea14b4fc878</id>
+      <masked>false</masked>
+      <name>facebook</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4bf81e36-5906-470b-a1fb-579857c40be6</id>
+      <masked>false</masked>
+      <name>twitter</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d25e5f7d-607f-445d-ac17-e6b9590d5e0d</id>
+      <masked>false</masked>
+      <name>google</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>aec0e895-a26b-421e-997f-5ab6f19c6b10</id>
+      <masked>false</masked>
+      <name>skype</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Klik tombol &quot;project list&quot; untuk mengakses halaman project list</description>
+   <name>S150009</name>
+   <tag>S150009</tag>
+   <comment></comment>
+   <testCaseGuid>390a4cb1-dc4f-4106-adf5-bd43f5ae1975</testCaseGuid>
+</TestCaseEntity>
